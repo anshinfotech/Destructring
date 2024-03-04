@@ -1,0 +1,36 @@
+// destructuring
+
+// // let obj={
+// //     firstName:"John",
+// //     lastName:"Doe",
+// //     age:28,
+// //     gender:"Male",
+// //     isAdmin:false,
+// // }
+
+// // // console.log(obj);
+
+// // console.log(obj.firstName);
+
+// // let {firstName, lastName,age,gender,isAdmin}=obj;
+
+// // console.log(firstName);
+
+// var firstName = "John"
+// var lastName = "Doe"
+// var age = 24
+
+// var arr=[firstName,lastName,age]
+
+// // console.log(arr);
+
+// var [firstName,lastName,age]=arr
+
+// console.log("Destructerd value =",age);
+// const numbers = [1, 2, 3, 4, 5];
+
+// // Skipping values
+// const [first, , third] = numbers;
+
+// console.log(first); // 1
+// console.log(third); // 3
